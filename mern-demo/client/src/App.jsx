@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const API_URL =
-  "https://sturdy-waffle-v6wg6x49xg56c6gq-5000.app.github.dev";
+  "http://localhost:5000";
 
 function App() {
   // =========================
